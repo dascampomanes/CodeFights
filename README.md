@@ -1,2 +1,2 @@
 # CodeFights
-CodeFights Arcade problems
+CodeFights Arcade problems in C++
